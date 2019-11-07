@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BijnisTask1Part2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_one">Fragment one</string>
+    <string name="fragment_two">Fragment two</string>
+    <string name="message">We did this</string>
+</resources>
